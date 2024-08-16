@@ -1,0 +1,16 @@
+.btn {
+  width: 190px;
+  height: 40px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+.container {
+  width: 240px;
+  height: 350px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
